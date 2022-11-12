@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Plugins_jQuery",
+			"path": "."
+		},
+		{
+			"name": "Images_M11",
+			"path": "../../../Downloads/Images_M11"
+		},
+		{
+			"name": "Icones_M11",
+			"path": "../../../Downloads/Icones_M11"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Plugins_jQuery"
+	}
+}
